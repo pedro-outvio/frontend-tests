@@ -1,0 +1,16 @@
+{
+  "name": "frontend-tests",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^2.1.0",
+    "faker": "^4.1.0"
+  }
+}
